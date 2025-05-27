@@ -26,7 +26,7 @@ Normalizes column names by converting them to lowercase, replacing spaces with u
 Converts the age column to integer type if it exists.
 
 # 7. Save Cleaned Data
-Saves the cleaned DataFrame to a CSV file named customer_personality.csvcleaned.csv.
+Saves the cleaned DataFrame to a CSV file named customer_personality_cleaned.csv.
 
 # 8. Final Output
 Prints the final shape of the dataset and displays a sample of the cleaned data.
