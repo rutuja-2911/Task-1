@@ -5,7 +5,7 @@ This script performs basic data cleaning operations on a customer personality da
 
 # Steps Performed
 # 1. Load Data
-Reads the dataset from marketing_campaign.csv using pandas.read_csv().
+Reads the dataset from Customer_Personality_Analysis.csv using pandas.read_csv().
 
 # 2. Initial Inspection
 Displays the shape of the dataset.
@@ -26,7 +26,7 @@ Normalizes column names by converting them to lowercase, replacing spaces with u
 Converts the age column to integer type if it exists.
 
 # 7. Save Cleaned Data
-Saves the cleaned DataFrame to a CSV file named marketing_campaign_cleaned.csvv.
+Saves the cleaned DataFrame to a CSV file named customer_personality.csvcleaned.csv.
 
 # 8. Final Output
 Prints the final shape of the dataset and displays a sample of the cleaned data.
